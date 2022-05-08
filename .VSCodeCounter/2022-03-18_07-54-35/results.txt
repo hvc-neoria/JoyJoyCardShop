@@ -1,0 +1,49 @@
+Date : 2022-03-18 07:54:35
+Directory : f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts
+Total : 20 files,  936 codes, 247 comments, 173 blanks, all 1356 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C#       |         20 |        936 |        247 |        173 |      1,356 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                         | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                            |         20 |        936 |        247 |        173 |      1,356 |
+| Gallery                                                                                                      |          1 |         53 |         24 |          5 |         82 |
+| Home                                                                                                         |          6 |        390 |          6 |         66 |        462 |
+| Shop                                                                                                         |         10 |        385 |        214 |         82 |        681 |
+| Shop\old                                                                                                     |          3 |         25 |        211 |         30 |        266 |
+| Shop\old\Temporary                                                                                           |          1 |         25 |          1 |          3 |         29 |
++--------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                     | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Gallery\CardInstantiaterInGallery.cs    | C#       |         53 |         24 |          5 |         82 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Home\BoughtPack.cs                      | C#       |         79 |          0 |         12 |         91 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Home\Card.cs                            | C#       |        147 |          6 |         24 |        177 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Home\CardCameraMover.cs                 | C#       |         52 |          0 |          6 |         58 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Home\CardCollection.cs                  | C#       |         19 |          0 |          4 |         23 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Home\CardZoomer.cs                      | C#       |         65 |          0 |         16 |         81 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Home\ResultText.cs                      | C#       |         28 |          0 |          4 |         32 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Money.cs                                | C#       |         27 |          0 |          6 |         33 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\PlayersMoney.cs                         | C#       |         57 |          1 |          9 |         67 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Shop\BarcodeReader.cs                   | C#       |         37 |          0 |          7 |         44 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Shop\Customer.cs                        | C#       |         53 |          1 |          8 |         62 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Shop\CustomerSpawner.cs                 | C#       |         51 |          0 |          8 |         59 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Shop\CustomerState.cs                   | C#       |        138 |          2 |         16 |        156 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Shop\PackInstantiater.cs                | C#       |         22 |          0 |          3 |         25 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Shop\PleaseClick.cs                     | C#       |         28 |          0 |          4 |         32 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Shop\ReadPack.cs                        | C#       |         31 |          0 |          6 |         37 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Shop\old\CustomerState.1.cs             | C#       |          0 |         94 |         12 |        106 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Shop\old\CustomerState_old.cs           | C#       |          0 |        116 |         15 |        131 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\Shop\old\Temporary\TCardInstantiater.cs | C#       |         25 |          1 |          3 |         29 |
+| f:\main\Desktop\1_temporary_unity\JoyJoyCardShop\Assets\Main\Scripts\UnitSalary.cs                           | C#       |         24 |          2 |          5 |         31 |
+| Total                                                                                                        |          |        936 |        247 |        173 |      1,356 |
++--------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3124f569861d2994684e8d2757368adf, type: 3}
+  m_Name: MasterData
+  m_EditorClassIdentifier: 
+  customerSpawner:
+    MaxCountAtFirst: 5
+    MaxCountAtLast: 180
+    MaxCountProportionalConstant: 0.35
+    MaxWaitTimeAtFirst: 8
+    MaxWaitTimeAtLast: 0.2
+    MaxWaitTimeDecrement: 0.3
+  packCountAtFirst: 3
+  packCountAtLast: 5
+  packCountIncrement: 0.15
+  SalaryIncrement: 30
+  CardOpeningWaitTime: 0.28
+  DownDuration: 0.3
+  CardCollectionDownDuration: 0.3
+  CardZoomRate: 3.5
+  CardZoomDuration: 0.15
+  MarginX: 0.1
+  MarginY: 0.11
